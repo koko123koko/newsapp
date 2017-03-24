@@ -1,3 +1,4 @@
+
 *.iml
 .gradle
 /local.properties
@@ -17,6 +18,7 @@ local.properties/
 
 ### Android
 template
+
 
 # Built application files
 *.apk
@@ -53,8 +55,14 @@ proguard/
 captures/
 
 # Intellij
+
 .idea/
 workspace.xml
 
 # Keystore files
 *.jks
+
+*.iml
+.idea/workspace.xml
+
+
